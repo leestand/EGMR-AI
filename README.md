@@ -32,12 +32,13 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
   <tbody>
     <tr>
       <td>
-        <img src="images/presentation_day_1.jpg" width="300"/><br/>
-        <img src="images/presentation_day_3.jpg" width="300"/>
+        <img src="images/presentation_day_1.jpg" width="400"/><br/>
+        <img src="images/presentation_day_2.jpg" width="400"/><br/>
+        <img src="images/presentation_day_3.jpg" width="400"/>
       </td>
       <td>
-        <img src="images/demo_1.jpg" width="300"/><br/>
-        <img src="images/demo_2.jpg" width="300"/>
+        <img src="images/demo_1.jpg" width="400"/><br/>
+        <img src="images/demo_2.jpg" width="400"/>
       </td>
     </tr>
   </tbody>
