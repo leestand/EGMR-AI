@@ -21,6 +21,12 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 | ![](images/presentation_day_1.jpg) ![](images/presentation_day_2.jpg) ![](images/presentation_day_3.jpg) | ![](images/demo_1.jpg) ![](images/demo_2.jpg) |
 
 
+### 🏆 수상 장면  
+![](images/presentation_day_1.jpg) ![](images/presentation_day_2.jpg) ![](images/presentation_day_3.jpg)
+
+### 💻 시연 장면  
+![](images/demo_1.jpg) ![](images/demo_2.jpg)
+
 
 ## 🔧 프로젝트 구조
 ```bash
