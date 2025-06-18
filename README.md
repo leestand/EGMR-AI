@@ -13,6 +13,13 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 👉 [EGMR-AI 서비스 발표자료 보러가기](./LeeseoAn_Portfolio_EGMRAI.pdf)
 
 
+## 📸 현장 스케치
+
+| 수장 장면 | 시연 장면 |
+|-----------|------------|
+| ![](images/presentation_day_1.jpg) | ![](images/presentation_day_2.jpg) |
+
+
 ## 🔧 프로젝트 구조
 ```bash
 project-root/
