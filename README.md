@@ -16,16 +16,10 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 
 ## 📸 현장 스케치
 
-### 🏆 수상 장면
+| 🏆 수상 장면 | 💻 시연 장면 |
+|-----------|------------|
+| ![](images/presentation_day_1.jpg) ![](images/presentation_day_2.jpg) ![](images/presentation_day_3.jpg) | ![](images/demo_1.jpg) ![](images/demo_2.jpg) |
 
-![award1](images/presentation_day_1.jpg)
-![award2](images/presentation_day_2.jpg)
-![award3](images/presentation_day_3.jpg)
-
-### 💻 시연 장면
-
-![demo1](images/demo_1.jpg)
-![demo2](images/demo_2.jpg)
 
 
 ## 🔧 프로젝트 구조
