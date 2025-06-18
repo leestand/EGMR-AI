@@ -44,8 +44,6 @@ EGMR-AI/
 ├── .gitignore       
 ├── README.md
 ├── requirements.txt          # Python 의존성
-├── package.json              # (UI용) Node.js 의존성
-├── package-lock.json
 ├── AI생성코드/
 │   └── llm-chatbot/
 │       ├── main.py
