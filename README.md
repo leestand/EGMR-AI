@@ -1,11 +1,13 @@
 # 🍽️ EGMR-AI (이거먹을래)
-### Everyone's Group Meal Recommendation Chatbot
+### Everyone's Group Meal Recommendation AI Chatbot
 
 > **"다 같이 뭐 먹을지 고민될 때, AI가 대신 골라드립니다!"**
 
 EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 대화형 AI 챗봇입니다.  
 사용자의 메뉴 선호, 위치, 분위기 등을 바탕으로 LLM 기반 추천 모델이 최적의 식당을 제안하며, React 기반의 UI를 통해 자연스럽고 직관적인 사용자 경험을 제공합니다.
 
+**팀명**: EGMR-AI (Everyone's Group Meal Recommendation AI Chatbot)
+**팀원**: 김승주, 민경태, 서연주, 안이서, 정성윤, 정우빈
 
 
 ## 📑 발표자료
