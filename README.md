@@ -5,7 +5,8 @@
 
 ## 📑 발표자료
 
-👉 [EGMR-AI 서비스 발표자료 보러가기](EGMR-AI/LeeseoAn_Portfolio_EGMRAI.pdf)
+👉 [EGMR-AI 서비스 발표자료 보러가기](./LeeseoAn_Portfolio_EGMRAI.pdf)
+
 
 ## 🔧 프로젝트 구조
 ```bash
