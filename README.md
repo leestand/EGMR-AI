@@ -4,7 +4,7 @@
 사용자의 취향, 메뉴, 위치 데이터를 활용해 LLM 기반으로 식당을 추천하고, 프론트엔드 UI를 통해 대화형 서비스를 제공합니다.
 
 ## 🔧 프로젝트 구조
-
+```bash
 project-root/
 ├── README.md
 ├── requirements.txt          # Python 의존성
@@ -30,7 +30,7 @@ project-root/
 │   ├── NaverWebCrawling_address_specific.ipynb
 │   ├── NaverWebCrawling_category_menu.ipynb
 │   └── NaverWebCrawling_metadata.ipynb
-
+```
 
 ## 🧠 주요 기술 스택
 
