@@ -1,0 +1,17 @@
+restaurant_recommender/
+├── main.py                  # FastAPI 앱 실행 메인 파일
+├── config.py                # 설정 관련 파일
+├── api/
+│   └── endpoints.py         # API 엔드포인트 관련 파일
+├── models/
+│   ├── embedding.py         # 임베딩 모델 관련 파일 (KoSentenceBERT 초기화 및 임베딩 생성)
+│   ├── faiss_index.py       # FAISS 인덱스 로드 및 처리 관련 파일
+│   └── llm.py               # LLM 호출 및 프롬프트 템플릿 생성 관련 파일
+├── utils/
+│   ├── text_processing.py   # 텍스트 전처리 관련 함수 (Mecab, 한국어 전처리)
+│   ├── similarity.py        # 유사도 계산 관련 함수
+│   ├── json_utils.py        # JSON 파일 로드 및 데이터 처리 관련 함수
+│   └── summarization.py     # 리뷰 요약 관련 함수
+└── data/                    # 데이터 폴더
+    ├── final_dataset3_document.json  # 음식점 정보 및 리뷰 데이터
+    └── user_preference.json # 사용자 선호도 데이터
