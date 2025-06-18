@@ -1,0 +1,542 @@
+[
+    {
+        "store_id": "1582818366",
+        "store_name": "퀸즈가든 양재점"
+    },
+    {
+        "store_id": "37233088",
+        "store_name": "갈비사랑 양재본점"
+    },
+    {
+        "store_id": "38264349",
+        "store_name": "한양돈까스"
+    },
+    {
+        "store_id": "1113983640",
+        "store_name": "탐라순대국감자탕 양재역직영점"
+    },
+    {
+        "store_id": "32254662",
+        "store_name": "한국순대 본점"
+    },
+    {
+        "store_id": "1427943416",
+        "store_name": "고려향"
+    },
+    {
+        "store_id": "1879800911",
+        "store_name": "쿠니라멘"
+    },
+    {
+        "store_id": "209145847",
+        "store_name": "바다고기"
+    },
+    {
+        "store_id": "1838844768",
+        "store_name": "노상치킨 양재점"
+    },
+    {
+        "store_id": "1106978299",
+        "store_name": "세광양대창 양재점"
+    },
+    {
+        "store_id": "18747564",
+        "store_name": "소부곱창"
+    },
+    {
+        "store_id": "964119437",
+        "store_name": "스시썸"
+    },
+    {
+        "store_id": "12981147",
+        "store_name": "갈비세상 양재본점"
+    },
+    {
+        "store_id": "46696494",
+        "store_name": "태국식당356"
+    },
+    {
+        "store_id": "38229207",
+        "store_name": "만복국수집 양재점"
+    },
+    {
+        "store_id": "179368379",
+        "store_name": "24시찹쌀순대만드는집"
+    },
+    {
+        "store_id": "1188227652",
+        "store_name": "소곰집 양재점"
+    },
+    {
+        "store_id": "32708325",
+        "store_name": "강촌원조쭈꾸미본점"
+    },
+    {
+        "store_id": "38248908",
+        "store_name": "치킨영토 양재점"
+    },
+    {
+        "store_id": "12962167",
+        "store_name": "라그릴리아 양재점"
+    },
+    {
+        "store_id": "1735144615",
+        "store_name": "이층완우"
+    },
+    {
+        "store_id": "193891932",
+        "store_name": "화차이"
+    },
+    {
+        "store_id": "1906380511",
+        "store_name": "손수동"
+    },
+    {
+        "store_id": "1360440438",
+        "store_name": "미몽 양재역점"
+    },
+    {
+        "store_id": "74715630",
+        "store_name": "배수경양재정육식당 9호점"
+    },
+    {
+        "store_id": "13151847",
+        "store_name": "돈오리"
+    },
+    {
+        "store_id": "1660867179",
+        "store_name": "진여사댁"
+    },
+    {
+        "store_id": "151264987",
+        "store_name": "하우림 양재점"
+    },
+    {
+        "store_id": "35136252",
+        "store_name": "양재닭집"
+    },
+    {
+        "store_id": "1257299870",
+        "store_name": "곰작골나주곰탕 양재점"
+    },
+    {
+        "store_id": "12917286",
+        "store_name": "영동족발 본점"
+    },
+    {
+        "store_id": "573699969",
+        "store_name": "오선채"
+    },
+    {
+        "store_id": "620225564",
+        "store_name": "김치뚝딱 양재점"
+    },
+    {
+        "store_id": "38709080",
+        "store_name": "백화네부엌"
+    },
+    {
+        "store_id": "1419339898",
+        "store_name": "미담재 양재역점"
+    },
+    {
+        "store_id": "36122875",
+        "store_name": "설마중"
+    },
+    {
+        "store_id": "1090964067",
+        "store_name": "인덕원비빔국수 양재직영점"
+    },
+    {
+        "store_id": "765084210",
+        "store_name": "산내골소갈비살"
+    },
+    {
+        "store_id": "11680229",
+        "store_name": "신선설농탕 도곡점"
+    },
+    {
+        "store_id": "1618656208",
+        "store_name": "명품생대구탕"
+    },
+    {
+        "store_id": "13160546",
+        "store_name": "그램"
+    },
+    {
+        "store_id": "1429930181",
+        "store_name": "소신"
+    },
+    {
+        "store_id": "37657812",
+        "store_name": "심야식당"
+    },
+    {
+        "store_id": "34521207",
+        "store_name": "청정횟집"
+    },
+    {
+        "store_id": "13150657",
+        "store_name": "양재민물매운탕"
+    },
+    {
+        "store_id": "13323748",
+        "store_name": "박고볼래실내포차"
+    },
+    {
+        "store_id": "1173026949",
+        "store_name": "영동회관"
+    },
+    {
+        "store_id": "1417896057",
+        "store_name": "카츠공방 양재점"
+    },
+    {
+        "store_id": "38251615",
+        "store_name": "문어세상해천탕 양재점"
+    },
+    {
+        "store_id": "1123021012",
+        "store_name": "호랑이초밥 양재점"
+    },
+    {
+        "store_id": "34345158",
+        "store_name": "양재정육식당 3호점"
+    },
+    {
+        "store_id": "37889898",
+        "store_name": "콩뿌리콩나물국밥 양재점"
+    },
+    {
+        "store_id": "13376678",
+        "store_name": "한솥도시락 양재교육개발원입구점"
+    },
+    {
+        "store_id": "1830398009",
+        "store_name": "서리풀돈까스"
+    },
+    {
+        "store_id": "37307613",
+        "store_name": "양재오제섞어 양재본점"
+    },
+    {
+        "store_id": "1927679596",
+        "store_name": "에베레스트 양재점"
+    },
+    {
+        "store_id": "1886378828",
+        "store_name": "곱창왕김형제 양재역본점"
+    },
+    {
+        "store_id": "1891561259",
+        "store_name": "월계랑"
+    },
+    {
+        "store_id": "1278613093",
+        "store_name": "지세포세꼬시"
+    },
+    {
+        "store_id": "13348519",
+        "store_name": "타이쇼"
+    },
+    {
+        "store_id": "1567180996",
+        "store_name": "에그드랍 양재역점"
+    },
+    {
+        "store_id": "31186755",
+        "store_name": "아리노마마"
+    },
+    {
+        "store_id": "1807443956",
+        "store_name": "양재역 조개맛집"
+    },
+    {
+        "store_id": "1944962798",
+        "store_name": "이가네양꼬치 양재역직영점"
+    },
+    {
+        "store_id": "31600260",
+        "store_name": "잰부닥"
+    },
+    {
+        "store_id": "234208683",
+        "store_name": "양인환대"
+    },
+    {
+        "store_id": "38474259",
+        "store_name": "오향절면 양재본점"
+    },
+    {
+        "store_id": "1672141709",
+        "store_name": "육즙관리소 양재역점"
+    },
+    {
+        "store_id": "1658172503",
+        "store_name": "닭곰탱이 양재역점"
+    },
+    {
+        "store_id": "1037966057",
+        "store_name": "피끄니크"
+    },
+    {
+        "store_id": "1786476142",
+        "store_name": "로마옥 도곡"
+    },
+    {
+        "store_id": "36538658",
+        "store_name": "니혼슈바 슈토"
+    },
+    {
+        "store_id": "20897027",
+        "store_name": "작은공간"
+    },
+    {
+        "store_id": "37615410",
+        "store_name": "신전떡볶이 도곡점"
+    },
+    {
+        "store_id": "35155951",
+        "store_name": "국미당"
+    },
+    {
+        "store_id": "1034622849",
+        "store_name": "국고집"
+    },
+    {
+        "store_id": "30922907",
+        "store_name": "스파게티스토리"
+    },
+    {
+        "store_id": "20601502",
+        "store_name": "그린네 은쟁반"
+    },
+    {
+        "store_id": "1889974700",
+        "store_name": "마라홀릭 마라탕 양재역점"
+    },
+    {
+        "store_id": "1672897084",
+        "store_name": "본죽&비빔밥cafe 양재은광여고점"
+    },
+    {
+        "store_id": "35307516",
+        "store_name": "제레미버거"
+    },
+    {
+        "store_id": "34098856",
+        "store_name": "얌얌 양재점"
+    },
+    {
+        "store_id": "12950069",
+        "store_name": "디오디아2.0"
+    },
+    {
+        "store_id": "1664070278",
+        "store_name": "용짜장 양재점"
+    },
+    {
+        "store_id": "1154400830",
+        "store_name": "깐부치킨 양재역점"
+    },
+    {
+        "store_id": "33459979",
+        "store_name": "치킨처럼 양재역점"
+    },
+    {
+        "store_id": "32699962",
+        "store_name": "장수정육식당"
+    },
+    {
+        "store_id": "1069491314",
+        "store_name": "뎁짜이 양재역점"
+    },
+    {
+        "store_id": "19882315",
+        "store_name": "자인뭉티기"
+    },
+    {
+        "store_id": "1081786133",
+        "store_name": "훅트포케 양재점"
+    },
+    {
+        "store_id": "1625687301",
+        "store_name": "힐튼가든인 서울강남 가든 비스트로"
+    },
+    {
+        "store_id": "38643869",
+        "store_name": "양지수제샌드위치"
+    },
+    {
+        "store_id": "36868411",
+        "store_name": "순남시래기 양재점"
+    },
+    {
+        "store_id": "20874669",
+        "store_name": "황재벌 본점"
+    },
+    {
+        "store_id": "13157782",
+        "store_name": "늘봄족발보쌈"
+    },
+    {
+        "store_id": "1192671730",
+        "store_name": "오부찌 양재점"
+    },
+    {
+        "store_id": "38591616",
+        "store_name": "고양이부엌 양재구청점"
+    },
+    {
+        "store_id": "1320179295",
+        "store_name": "크라이치즈버거 양재역점"
+    },
+    {
+        "store_id": "11861500",
+        "store_name": "전주옛날집"
+    },
+    {
+        "store_id": "1078767514",
+        "store_name": "서초목살"
+    },
+    {
+        "store_id": "31134978",
+        "store_name": "본도시락 양재점"
+    },
+    {
+        "store_id": "18771333",
+        "store_name": "진스시"
+    },
+    {
+        "store_id": "37997726",
+        "store_name": "봉피양 양재점"
+    },
+    {
+        "store_id": "37236849",
+        "store_name": "돼지연구소 양재직영점"
+    },
+    {
+        "store_id": "1268565080",
+        "store_name": "솥두껍 양재본점"
+    },
+    {
+        "store_id": "37902481",
+        "store_name": "깡돈"
+    },
+    {
+        "store_id": "32821881",
+        "store_name": "토봉추어탕"
+    },
+    {
+        "store_id": "1044461398",
+        "store_name": "우대포 양재점"
+    },
+    {
+        "store_id": "11627634",
+        "store_name": "버드나무집 서초동본점"
+    },
+    {
+        "store_id": "18779141",
+        "store_name": "듬북담북 뱅뱅점"
+    },
+    {
+        "store_id": "98898756",
+        "store_name": "양재정육식당 역삼뱅뱅점"
+    },
+    {
+        "store_id": "13150366",
+        "store_name": "참설농탕 서초점"
+    },
+    {
+        "store_id": "1550997885",
+        "store_name": "부안애서 서초점"
+    },
+    {
+        "store_id": "34582729",
+        "store_name": "담소소사골순대육개장 서초점"
+    },
+    {
+        "store_id": "18361460",
+        "store_name": "광양참숯불고기"
+    },
+    {
+        "store_id": "1532111915",
+        "store_name": "푸라닭 서초2동점"
+    },
+    {
+        "store_id": "1925656389",
+        "store_name": "피넘타이"
+    },
+    {
+        "store_id": "20083769",
+        "store_name": "전사랑 서초본점"
+    },
+    {
+        "store_id": "1137666363",
+        "store_name": "옥된장 양재점"
+    },
+    {
+        "store_id": "1553486347",
+        "store_name": "마라두목 양재점"
+    },
+    {
+        "store_id": "1688755338",
+        "store_name": "백소정 양재역점"
+    },
+    {
+        "store_id": "1516711006",
+        "store_name": "불로삼계백숙"
+    },
+    {
+        "store_id": "1932467805",
+        "store_name": "보글이 생태탕왕코다리 양재역점"
+    },
+    {
+        "store_id": "1698302178",
+        "store_name": "도화"
+    },
+    {
+        "store_id": "1113983640",
+        "store_name": "탐라순대국감자탕 양재역직영점"
+    },
+    {
+        "store_id": "1751873950",
+        "store_name": "양재순대"
+    },
+    {
+        "store_id": "18307489",
+        "store_name": "어부참치"
+    },
+    {
+        "store_id": "1941253545",
+        "store_name": "Poke all day 포케&샐러드 양재점"
+    },
+    {
+        "store_id": "1827894067",
+        "store_name": "명가무안뻘낙지"
+    },
+    {
+        "store_id": "13150440",
+        "store_name": "콩나루콩나물국밥 직영점"
+    },
+    {
+        "store_id": "1361137881",
+        "store_name": "채석강"
+    },
+    {
+        "store_id": "1420055829",
+        "store_name": "임병주산동칼국수"
+    },
+    {
+        "store_id": "1931613846",
+        "store_name": "우나유 나고야식 장어덮밥"
+    },
+    {
+        "store_id": "36200001",
+        "store_name": "춘향골남원추어탕 서초점"
+    },
+    {
+        "store_id": "13150444",
+        "store_name": "난랑"
+    }
+]
