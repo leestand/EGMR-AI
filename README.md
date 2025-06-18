@@ -44,7 +44,7 @@ EGMR-AI/
 ├── .gitignore       
 ├── README.md
 ├── requirements.txt         
-├── AI생성코드/
+├── AI/                          #AI 챗봇 생성코드
 │   └── llm-chatbot/
 │       ├── main.py
 │       ├── config.py
@@ -53,13 +53,13 @@ EGMR-AI/
 │       ├── data/
 │       ├── models/
 │       └── utils/
-├── UI코드/
+├── UI/                          #UI 생성코드
 │   ├── index.js
 │   ├── node_modules/
 │   ├── package.json
 │   ├── package-lock.json
 │   └── egmr_ai/
-├── 데이터수집코드/
+├── Data/                       #데이터 수집 코드 
 │   ├── NaverReviewSentimentAnalysis.ipynb
 │   ├── NaverWebCrawling_address_specific.ipynb
 │   ├── NaverWebCrawling_category_menu.ipynb
