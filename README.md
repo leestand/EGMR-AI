@@ -43,7 +43,7 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 EGMR-AI/
 ├── .gitignore       
 ├── README.md
-├── requirements.txt          # Python 의존성
+├── requirements.txt         
 ├── AI생성코드/
 │   └── llm-chatbot/
 │       ├── main.py
