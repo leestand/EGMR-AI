@@ -40,7 +40,8 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 
 ## 🔧 프로젝트 구조
 ```bash
-project-root/
+EGMR-AI/
+├── .gitignore       
 ├── README.md
 ├── requirements.txt          # Python 의존성
 ├── package.json              # (UI용) Node.js 의존성
