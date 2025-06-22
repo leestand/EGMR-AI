@@ -8,7 +8,7 @@ EGMR-AI는 **다중 사용자의 취향을 고려해** 식사를 추천하는 �
 
 ## 📑 발표자료
 
-👉 [EGMR-AI 서비스 발표자료 보러가기](./LeeseoAn_Portfolio_EGMRAI.pdf)
+👉 [EGMR-AI 서비스 발표자료 보러가기](./LeeseoAn_Portfolio_EGMR_AI.pdf)
 
 
 ## 📸 현장 스케치
